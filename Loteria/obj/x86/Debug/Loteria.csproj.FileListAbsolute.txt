@@ -1,0 +1,8 @@
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\bin\Debug\Loteria.exe
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\bin\Debug\Loteria.pdb
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.Form1.resources
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.Properties.Resources.resources
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.csproj.GenerateResource.Cache
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.exe
+c:\users\wcastillo\documents\visual studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.pdb
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Debug\Loteria.csprojResolveAssemblyReference.cache

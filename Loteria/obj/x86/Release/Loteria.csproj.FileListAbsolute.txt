@@ -1,0 +1,7 @@
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\bin\Release\Loteria.exe
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\bin\Release\Loteria.pdb
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Release\Loteria.Form1.resources
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Release\Loteria.Properties.Resources.resources
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Release\Loteria.csproj.GenerateResource.Cache
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Release\Loteria.exe
+C:\Users\wcastillo\Documents\Visual Studio 2010\Projects\Loteria\Loteria\obj\x86\Release\Loteria.pdb
